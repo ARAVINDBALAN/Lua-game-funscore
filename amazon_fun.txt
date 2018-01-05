@@ -1,0 +1,2 @@
+amzn1.devportal.mobileapp.e27d003e70c642c89025ce8707cf4c76 app id 
+amzn1.devportal.apprelease.4bbc129fdfac45c995c830e32f76ec04 release id
